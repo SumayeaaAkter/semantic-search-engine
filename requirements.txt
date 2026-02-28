@@ -1,0 +1,5 @@
+requests
+beautifulsoup4
+duckdb
+chromadb
+sentence-transformers
